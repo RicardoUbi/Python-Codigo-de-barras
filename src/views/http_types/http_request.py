@@ -6,7 +6,7 @@ class HttpRequest:
             header: Dict = None,
             body: Dict = None,
             query_params: Dict = None
-            ) -> None:
+        ) -> None:
         self.header = header
         self.body = body
         self.query_params = query_params
