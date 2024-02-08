@@ -19,6 +19,7 @@ O Gerador de Código de Barras é uma aplicação web escalável, construída co
 O projeto também inclui testes unitários abrangentes e segue padrões de código estritos definidos pelo Pylint, facilitando os testes e o versionamento do código entre equipe de desenvolvimento.
 
 ## Demostração:
+Utilizei o Postman para fazer o Post no localhost. Confira abaixo.
 
 <div align="center">
   <img src="imgs/Gifbarras.gif" alt="Demonstração">
@@ -49,7 +50,7 @@ Para fazer os testes unitarios, foi utilizado o Pytest, e você encontrara algun
 1. Clone o repositório:
 
    ```terminal
-   git clone https://github.com/RicardoUbi/FrontEnd-Collection.git
+   git clone https://github.com/RicardoUbi/Python-Codigo-de-barras.git
 
 2. Execute o programa
 
